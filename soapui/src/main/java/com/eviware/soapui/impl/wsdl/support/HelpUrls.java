@@ -148,10 +148,10 @@ public interface HelpUrls {
     public static final String REST_MOCKSERVICE_HELP_URL = "/REST-Service-Mocking/mock-service-editor.html";
     public static final String REST_MOCKSERVICE_OPTIONS = "/REST-Service-Mocking/mock-service-options.html";
     public static final String REST_MOCK_RESPONSE_EDITOR = "/REST-Service-Mocking/mock-response-editor.html";
-    public static final String REST_MOCK_RESPONSE_EDITOR_BODY = "/rest-testing-mocking/reference/mock-response-editor.html";
-    public static final String REST_MOCK_RESPONSE_EDITOR_HEADER = "/rest-testing-mocking/reference/mock-response-editor.html";
-    public static final String REST_MOCK_RESPONSE_SCRIPT = "/rest-testing-mocking/reference/mock-response-editor.html";
-    public static final String REST_MOCK_SCRIPTDISPATCH = "/rest-testing-mocking/reference/mock-response-editor.html";
+    public static final String REST_MOCK_RESPONSE_EDITOR_BODY = "/rest-testing-mocking/reference/mock-response-editor-body.html";
+    public static final String REST_MOCK_RESPONSE_EDITOR_HEADER = "/rest-testing-mocking/reference/mock-response-editor-header.html";
+    public static final String REST_MOCK_RESPONSE_SCRIPT = "/rest-testing-mocking/reference/mock-response-editor-script.html";
+    public static final String REST_MOCK_SCRIPTDISPATCH = "/rest-testing-mocking/reference/mock-response-editor-dispatch.html";
     public static final String RUNTESTCASESTEP_HELP_URL = "/Functional-Testing/modularizing-your-tests.html";
 
     public static final String SECURITYTESTEDITOR_HELP_URL = "/Security/working-with-security-tests.html";
